@@ -1,1 +1,1 @@
-Go to http://nodejs-training-in-kochi.github.io  for more details
+#Go to http://hotshotmentors.github.io/Nodejs-training-in-kochi.github.io  for more details
